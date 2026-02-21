@@ -1,2 +1,1 @@
-# jr-hindi
-for java code
+console.log("guari")
